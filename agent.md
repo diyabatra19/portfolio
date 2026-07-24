@@ -10,8 +10,15 @@ Use these rules for future manual or AI-assisted edits.
 6. Preserve privacy-enhanced YouTube embeds using `youtube-nocookie.com`.
 7. Do not download, duplicate or re-upload YouTube videos.
 8. Keep videos lazy-loaded so iframes are created only after visitor interaction.
-9. Maintain keyboard access for navigation, stacks, modal controls and the contact form.
-10. Respect `prefers-reduced-motion` and keep 3D/motion effects subtle.
-11. Do not add a fake form success message unless a real backend service is connected.
-12. Do not use official Roblox logos, characters, UI or downloadable game assets.
-13. Update `README.md` when adding new editable content locations or deployment requirements.
+9. Keep every portfolio player inline. Do not add video modals, portals, popups or scroll locking.
+10. Maintain keyboard access for navigation, video controls, the client strip and contact links.
+11. Respect `prefers-reduced-motion`; the hero must remain free of decorative 3D objects.
+12. Do not add a fake form success message unless a real backend service is connected.
+13. Do not use official Roblox logos, characters, UI or downloadable game assets.
+14. Update `README.md` when adding new editable content locations or deployment requirements.
+15. Keep the public interface green-first; purple may remain inside approved client artwork but is not the primary UI color.
+16. Preserve the numerical client/project `priority` fields and the Valekis hero project unless the client explicitly changes them.
+17. Placeholder testimonials may render only in local development and must remain hidden from production builds.
+18. Change `testimonialStatus` to `verified` only after the client approves the exact wording.
+19. Keep Kazed separate from Froze, exclude Kazed from the creator strip, and never display a Kazed subscriber count.
+20. Run `npm run lint`, `npm test`, and `npm run build` after portfolio data or component changes.

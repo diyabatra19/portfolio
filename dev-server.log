@@ -1,8 +1,19 @@
 
 > skidoedits-portfolio@1.0.0 dev
-> vite --host 127.0.0.1
+> vite --host 127.0.0.1 --host 127.0.0.1
 
+[2m6:25:46 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m Re-optimizing dependencies because lockfile has changed
 
-  VITE v6.4.3  ready in 1581 ms
+  [32m[1mVITE[22m v6.4.3[39m  [2mready in [0m[1m806[22m[2m[0m ms[22m
 
-  ➜  Local:   http://127.0.0.1:5173/
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5173[22m/[39m
+[2m8:37:14 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m8:37:23 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/InlineYouTubePlayer.jsx[22m
+[2m8:38:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ClientProjectRow.jsx[22m
+[2m8:38:17 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/ClientMarquee.jsx[22m
+[2m8:40:11 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.jsx[22m
+[2m8:43:40 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css[22m
+[2m8:47:00 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/InlineYouTubePlayer.jsx[22m
+[2m8:47:20 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/HeroVideo.jsx[22m
+[2m8:49:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/VideoStack.jsx[22m
+[2m8:49:35 pm[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/PlayableVideoRail.jsx[22m
