@@ -218,7 +218,7 @@ function VideoRails({ activeVideoId, onActivate, onDeactivate }) {
     <section className="video-rails" aria-labelledby="rails-title">
       <div className="section-heading">
         <p>Keep watching</p>
-        <h2 id="rails-title">Twenty-three edits. Press play.</h2>
+        <h2 id="rails-title">Our Gaming Edits</h2>
       </div>
       {data.rails.map((rail) => (
         <PlayableVideoRail
